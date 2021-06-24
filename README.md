@@ -1,2 +1,2 @@
 # Mywebapp
-It is a website with just empty web pages and contain a registration form.
+It is a website with empty web pages and contain a registration form.
